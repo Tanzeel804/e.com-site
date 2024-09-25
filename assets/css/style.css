@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap");
+body {
+  font-family: "SUSE", system-ui !important;
+}
+.icon-star {
+  color: white;
+  background-color: pink;
+  border-radius: 50%;
+}
+.section-2 {
+  color: rgba(250, 244, 241, 255);
+}
+.hrading-1 h2 {
+  text-transform: capitalize;
+}
+.section2-icon{
+    border: 1px solid black;
+    padding: 10px;
+}
+.div-product h6 {
+  color: #efefef;
+  font-weight: bolder;
+}
